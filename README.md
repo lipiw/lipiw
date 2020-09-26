@@ -2,7 +2,7 @@
 
 [Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)]([https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/lipiw/)
 
-[![Gmail Badge][https://img.shields.io/badge/-felipe.lipiw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.lipiw@gmail.com](https://img.shields.io/badge/-felipe.lipiw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.lipiw@gmail.com)]
+[![Gmail Badge][https://img.shields.io/badge/-felipe.lipiw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.lipiw@gmail.com]
 
 ---
 
