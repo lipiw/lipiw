@@ -14,6 +14,4 @@
 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
-- 📝 Meta: poder trabalhar como Full-stack;
-
 - 📫 Entrar em contato: felipe.lipiw@gmail.com
