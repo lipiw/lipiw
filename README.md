@@ -10,7 +10,7 @@ Olá, meu nome é Felipe Rafael e tenho 23 anos, nascido em 2000. Atualmente, so
 ## Atualizações Pessoais
 
 - 💻 No momento, estou imerso no estudo de Javascript, com ênfase em ReactJs e NodeJs;
-- ⚡️ Estou sempre em busca de novas oportunidades e desafios para continuar aprimorando minhas habilidades como desenvolvedor full stack;
+- ⚡️ Estou em constante aprendizado;
 - 💬 Fique à vontade para me fazer qualquer pergunta, estou aqui para ajudar;
 - 📫 Você pode entrar em contato comigo pelo email: felipe.lipiw@gmail.com
 
